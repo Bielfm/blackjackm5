@@ -1,0 +1,3 @@
+﻿  BlackJackM5.cpp
+F:\BlackJackM5\BlackJackM5\BlackJackM5\BlackJackM5.cpp(154,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJackM5.vcxproj -> F:\BlackJackM5\BlackJackM5\x64\Debug\BlackJackM5.exe
